@@ -1,0 +1,9 @@
+eclipse/
+out/
+MCM_SpaceTech.iml
+MCM_SpaceTech.ipr
+MCM_SpaceTech.iws
+.gradle/
+.settings/
+.project
+.classpath
